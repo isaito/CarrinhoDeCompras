@@ -34,7 +34,7 @@ public class CarrinhoDeCompras {
      * ao projeto do NetBeans, portanto deve ser especificado um caminho
      * absoluto.
      */
-    private final static String ARQUIVO_SAIDA = "/tmp/saida.txt";
+    private final static String ARQUIVO_SAIDA = "saida.txt";
     /**
      * Definição de quais problemas testar. Veja arquivo instancias.txt para
      * saber quais são os problemas e as soluções. Quanto maior o problema, mais
